@@ -1,4 +1,4 @@
-## code-folio_video -- approx. 6 mins long
+## Code-folio_video -- approx. 6 mins long
 
 ## this is the 'code-folio' video for Drew Jensen
 ## computer programming student at St. Cloud Tech Community College
